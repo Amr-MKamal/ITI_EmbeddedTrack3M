@@ -1,3 +1,9 @@
 This a todo list for learning new advanced topics in 3 month
 1- Learn about use of Attributes 
-2_CV
+2-MISRA C
+3-Mapping, Shortest Path Algorithms
+4-bash
+5-LiteSQL
+6-POSIX 
+7- PYTHON
+8-MATLAP
